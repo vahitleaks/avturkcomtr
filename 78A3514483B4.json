@@ -1,0 +1,76 @@
+{
+  "device": "78:A3:51:44:83:B4",
+  "overview": {
+    "CihazKullanicilariDurum": "YOK",
+    "CihazDataDurum": "VAR",
+    "CihazData": false,
+    "CihazIstatistikleri": [
+      {
+        "Download": "2748",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-04-27"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-04-28"
+      },
+      {
+        "Download": "1636",
+        "Upload": "1296",
+        "IstatistikTarihi": "2025-04-29"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-04-30"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-05-01"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-05-02"
+      },
+      {
+        "Download": "1204",
+        "Upload": "864",
+        "IstatistikTarihi": "2025-05-03"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-05-04"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-05-05"
+      },
+      {
+        "Download": "1728",
+        "Upload": "1728",
+        "IstatistikTarihi": "2025-05-06"
+      }
+    ],
+    "CihazLisansBilgileri": {
+      "LisansDataDurum": "YOK"
+    },
+    "ToplamKullanici": 0,
+    "OnlineKullanici": 0,
+    "OfflineKullanici": 0
+  },
+  "settings": {
+    "WifiSSID": "",
+    "WifiSifre": "",
+    "RedirectURL": "",
+    "IPAdresi": "",
+    "NetMask": "",
+    "WifiDurum": ""
+  },
+  "top_urls": [],
+  "users": []
+}

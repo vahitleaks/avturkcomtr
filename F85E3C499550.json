@@ -1,0 +1,333 @@
+{
+  "device": "F8:5E:3C:49:95:50",
+  "overview": {
+    "CihazKullanicilariDurum": "VAR",
+    "CihazDataDurum": "VAR",
+    "CihazData": {
+      "CihazAyarID": 395,
+      "0": 395,
+      "Aktif": 1,
+      "1": 1,
+      "Banla": 0,
+      "2": 0,
+      "IlkAyarUygula": 0,
+      "3": 0,
+      "CihazID": "F8:5E:3C:49:95:50",
+      "4": "F8:5E:3C:49:95:50",
+      "CihazAdi": "Deniz_Tekstil_Outlet_petrol",
+      "5": "Deniz_Tekstil_Outlet_petrol",
+      "CaptivePortalAcikKapali": 1,
+      "6": 1,
+      "GirisEkraniTC": 1,
+      "7": 1,
+      "GirisEkraniSMS": 1,
+      "8": 1,
+      "GirisEkraniKullanici": 0,
+      "9": 0,
+      "GirisEkraniPasaportWhatsApp": 0,
+      "10": 0,
+      "GirisEkraniSosyalLogin": 0,
+      "11": 0,
+      "GirisEkraniOzelSifre": "",
+      "12": "",
+      "EPostaAlani": 0,
+      "13": 0,
+      "CihazLogo": "Logo.jpg",
+      "14": "Logo.jpg",
+      "CihazTema": "Kirmizi",
+      "15": "Kirmizi",
+      "RedirectURL": "https://www.baltaligrup.com.tr",
+      "16": "https://www.baltaligrup.com.tr",
+      "SMSAdeti": 10000,
+      "17": 10000,
+      "GonderilenSMSAdeti": 1,
+      "18": 1,
+      "SMSIsimSoyisimAlani": 1,
+      "19": 1,
+      "HizmetDurumu": 1,
+      "20": 1,
+      "HizmetAktifZamanBaslangic": "00:00:00",
+      "21": "00:00:00",
+      "HizmetAktifZamanBitis": "00:00:00",
+      "22": "00:00:00",
+      "OturumZamanAsimi": 525948,
+      "23": 525948,
+      "ZamanKotasi": 0,
+      "24": 0,
+      "LisansTarihi": "2024-02-08",
+      "25": "2024-02-08",
+      "WifiDurum": 1,
+      "26": 1,
+      "WifiSSID": "DENIZGUEST",
+      "27": "DENIZGUEST",
+      "WifiSifre": "DENIZDENIZ20",
+      "28": "DENIZDENIZ20",
+      "IPAdresi": "192.168.200.1",
+      "29": "192.168.200.1",
+      "NetMask": "255.255.248.0",
+      "30": "255.255.248.0",
+      "KullaniciEtkilesimEkrani": "KAPALI",
+      "31": "KAPALI",
+      "AcilGuncelle": 0,
+      "32": 0,
+      "YenidenBaslat": 0,
+      "33": 0,
+      "SSHConnect": 0,
+      "34": 0,
+      "Routing": 0,
+      "35": 0,
+      "RoutingPassNetwork": "",
+      "36": "",
+      "RoutingBlockNetwork": "",
+      "37": "",
+      "YardimEkrani": 0,
+      "38": 0,
+      "Afad": 0,
+      "39": 0,
+      "AfadYonlendirme": 0,
+      "40": 0,
+      "Kizilay": 0,
+      "41": 0,
+      "KizilayYonlendirme": 0,
+      "42": 0,
+      "Ahbap": 0,
+      "43": 0,
+      "AhbapYonlendirme": 0,
+      "44": 0,
+      "CihaziGizle": 0,
+      "45": 0,
+      "Bildirim": 1,
+      "46": 1,
+      "GuncellemeTarihi": "2024-02-08 09:45:34",
+      "47": "2025-05-06 05:10:02",
+      "EklendigiTarih": "2024-02-08 09:45:34",
+      "48": "2024-02-08 09:45:34",
+      "DurumID": 430,
+      "49": 430,
+      "50": "F8:5E:3C:49:95:50",
+      "PublicIP": "78.188.192.231",
+      "51": "78.188.192.231",
+      "CihazVersiyonu": "V4_2",
+      "52": "V4_2",
+      "CevrimiciSuresi": 303519,
+      "53": 303519,
+      "DiskAlani": 11,
+      "54": 11,
+      "DoluDiskAlani": 4,
+      "55": 4,
+      "UpTime": "2025-05-06 05:44:02",
+      "56": "2025-05-06 05:44:02",
+      "57": "2025-05-06 05:44:02",
+      "58": "2024-12-24 10:36:57",
+      "id": 413,
+      "59": 413,
+      "60": "F8:5E:3C:49:95:50",
+      "Kurulum": 1,
+      "61": 1,
+      "Marka": "Avrespot",
+      "62": "Avrespot",
+      "Model": "AVT7621",
+      "63": "AVT7621",
+      "64": "2024-02-08 09:45:34",
+      "65": "2024-02-08 09:45:34",
+      "ToplamDownload": 18881977721,
+      "66": 18881977721,
+      "ToplamUpload": 904293539,
+      "67": 904293539
+    },
+    "CihazIstatistikleri": [
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-04-27"
+      },
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-04-28"
+      },
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-04-29"
+      },
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-04-30"
+      },
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-05-01"
+      },
+      {
+        "Download": "0",
+        "Upload": "0",
+        "IstatistikTarihi": "2025-05-02"
+      },
+      {
+        "Download": "50931",
+        "Upload": "7666",
+        "IstatistikTarihi": "2025-05-03"
+      },
+      {
+        "Download": "50931",
+        "Upload": "7666",
+        "IstatistikTarihi": "2025-05-04"
+      },
+      {
+        "Download": "50931",
+        "Upload": "7666",
+        "IstatistikTarihi": "2025-05-05"
+      },
+      {
+        "Download": "50931",
+        "Upload": "7666",
+        "IstatistikTarihi": "2025-05-06"
+      }
+    ],
+    "CihazLisansBilgileri": {
+      "LisansDataDurum": "VAR",
+      "BitisTarihi": "08 Şubat 2027",
+      "KalanGun": 643
+    },
+    "ToplamKullanici": 4,
+    "OnlineKullanici": 0,
+    "OfflineKullanici": 4
+  },
+  "settings": {
+    "WifiSSID": "",
+    "WifiSifre": "",
+    "RedirectURL": "",
+    "IPAdresi": "",
+    "NetMask": "",
+    "WifiDurum": ""
+  },
+  "top_urls": [
+    {
+      "url": "vantage-csw-lenovo.com",
+      "hit": "4",
+      "date": "07 Nisan 2025"
+    },
+    {
+      "url": "cumhuriyet.com.tr",
+      "hit": "3",
+      "date": "07 Nisan 2025"
+    },
+    {
+      "url": "primevideo.com",
+      "hit": "1",
+      "date": "07 Nisan 2025"
+    },
+    {
+      "url": "openenglish.com.tr",
+      "hit": "4",
+      "date": "31 Mart 2025"
+    },
+    {
+      "url": "clicklystore.com",
+      "hit": "1",
+      "date": "31 Mart 2025"
+    },
+    {
+      "url": "recaptcha.net",
+      "hit": "7",
+      "date": "22 Şubat 2025"
+    },
+    {
+      "url": "ironsdk.net",
+      "hit": "2",
+      "date": "22 Şubat 2025"
+    },
+    {
+      "url": "spadsync.com",
+      "hit": "1",
+      "date": "22 Şubat 2025"
+    },
+    {
+      "url": "app-measurement.com",
+      "hit": "81",
+      "date": "16 Şubat 2025"
+    },
+    {
+      "url": "dsmgrup.com",
+      "hit": "81",
+      "date": "16 Şubat 2025"
+    }
+  ],
+  "users": [
+    {
+      "mac": "3E:1E:E2:8F:0F:7F",
+      "ip": "192.168.205.39",
+      "masked_name": "Be****Ar****",
+      "masked_phone": "05551641650",
+      "auth": "TC",
+      "last_seen": "03 Mayıs, 08:52",
+      "tc": "***********",
+      "name": "Be**** Ar****",
+      "phone": "05551641650",
+      "birth_year": "****",
+      "local_ip": "192.168.205.39",
+      "auth_type": "TC",
+      "first_login": "23 Ocak (3 Ay Önce)",
+      "last_login": "03 Mayıs, 08:52",
+      "dlul_today": "0 Bytes / 0 Bytes",
+      "dlul_total": "1.63 GB / 106.75 MB"
+    },
+    {
+      "mac": "2E:29:27:D6:F4:09",
+      "ip": "192.168.203.201",
+      "masked_name": "Şe********",
+      "masked_phone": "+905332652519",
+      "auth": "TC",
+      "last_seen": "10 Şubat (2 Ay Önce)",
+      "tc": "***********",
+      "name": "Şe**** ****",
+      "phone": "+905332652519",
+      "birth_year": "****",
+      "local_ip": "192.168.203.201",
+      "auth_type": "TC",
+      "first_login": "10 Şubat (2 Ay Önce)",
+      "last_login": "10 Şubat (2 Ay Önce)",
+      "dlul_today": "0 Bytes / 0 Bytes",
+      "dlul_total": "300.54 MB / 8.64 MB"
+    },
+    {
+      "mac": "44:71:47:35:2B:03",
+      "ip": "192.168.207.29",
+      "masked_name": "Fa****Er****",
+      "masked_phone": "05332117661",
+      "auth": "TC",
+      "last_seen": "24 Aralık 2024 (4 Ay Önce)",
+      "tc": "***********",
+      "name": "Fa**** Er****",
+      "phone": "05332117661",
+      "birth_year": "****",
+      "local_ip": "192.168.207.29",
+      "auth_type": "TC",
+      "first_login": "24 Aralık 2024 (4 Ay Önce)",
+      "last_login": "24 Aralık 2024 (4 Ay Önce)",
+      "dlul_today": "0 Bytes / 0 Bytes",
+      "dlul_total": "0 Bytes / 0 Bytes"
+    },
+    {
+      "mac": "6E:8F:47:E7:FF:5F",
+      "ip": "192.168.206.75",
+      "masked_name": "İs****Ka****",
+      "masked_phone": "05306494553",
+      "auth": "TC",
+      "last_seen": "08 Şubat 2024 (1 Yıl Önce)",
+      "tc": "***********",
+      "name": "İs**** Ka****",
+      "phone": "05306494553",
+      "birth_year": "****",
+      "local_ip": "192.168.206.75",
+      "auth_type": "TC",
+      "first_login": "08 Şubat 2024 (1 Yıl Önce)",
+      "last_login": "08 Şubat 2024 (1 Yıl Önce)",
+      "dlul_today": "0 Bytes / 0 Bytes",
+      "dlul_total": "0 Bytes / 0 Bytes"
+    }
+  ]
+}
